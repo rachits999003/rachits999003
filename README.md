@@ -24,8 +24,8 @@ Concepts = ["OOP", "AI Agents", "System Control", "ML"]
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ser-debug&show_icons=true&theme=tokyonight" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ser-debug&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?rachits999003=Rachit-debug&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?rachits999003=Rachit-debug&layout=compact&theme=tokyonight" height="180">
 </p>
 
 ---
