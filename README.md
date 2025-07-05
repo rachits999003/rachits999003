@@ -1,13 +1,29 @@
-<h1 align="center">Hi, I'm Rachit Sharma 👋</h1>
-<p align="center">Engineer | Problem Solver | Python Devloper</p>
+# 👋 Hi, I'm Rachit Sharma
+
+🎯 **Engineer | Machine Learning Developer | Python Toolmaker**
+
+I'm a self-driven developer who builds intelligent systems, automates the boring stuff, and turns ideas into real, working tools. Currently in my final year of IT Engineering and already maintaining two open-source Python libraries used by international developers.
+
+📈 My projects aren’t just for show — they’re used, published, and iterated on. Whether it’s building an AI Butler, solving puzzle games with A*, or detecting fake reviews, I love shipping creative solutions that *actually work*.
+
 ---
 
-### 💻 Tech Stack
+## 🧠 What I Do
+
+- 🐍 **Python Development** – automation tools, GUIs (Flet, Tkinter), scripts, and libraries
+- 🧬 **Machine Learning** – classification, NLP, model evaluation with `scikit-learn`, pandas, etc.
+- 🧪 **Research + Experimentation** – AI + cybersecurity, recursive ML refinement
+- 🛠️ **Builder Mindset** – I take tools from 0 → GitHub release → international users
+
+---
+
+## 🧰 Tech Stack
 
 ```python
 Languages = ["Python", "JavaScript (basic)"]
-Tools = ["Flet", "Pygame", "Scikit-learn", "Git"]
-Concepts = ["OOP", "AI Agents", "System Control", "ML"]
+Frameworks = ["scikit-learn", "Flet", "Tkinter"]
+Concepts = ["OOP", AI Agents, ML Ops, GUI apps]
+Tools = ["Git", PyInstaller", "VS Code", "PyPI"]
 ```
 
 ---
