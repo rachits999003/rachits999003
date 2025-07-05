@@ -22,8 +22,8 @@ I'm a self-driven developer who builds intelligent systems, automates the boring
 ```python
 Languages = ["Python", "JavaScript (basic)"]
 Frameworks = ["scikit-learn", "Flet", "Tkinter"]
-Concepts = ["OOP", AI Agents, ML Ops, GUI apps]
-Tools = ["Git", PyInstaller", "VS Code", "PyPI"]
+Concepts = ["OOP", "AI Agents", "ML Ops", "GUI apps"]
+Tools = ["Git", "PyInstaller", "VS Code", "PyPI"]
 ```
 
 ---
@@ -43,6 +43,7 @@ Built an ML classifier to detect AI-generated reviews. Uses `RandomForestClassif
 
 🔹 [**Ball Sort Solver**](https://github.com/rachits999003/Ball-Sort-Solver)  
 Built a guaranteed solver using A* + custom heuristics. Prunes state trees for faster convergence. GUI made with Tkinter.  
+
 → _Used by puzzle solvers to crack hard levels without brute force._
 
 ---
@@ -51,6 +52,7 @@ Built a guaranteed solver using A* + custom heuristics. Prunes state trees for f
 
 - `pytedit` – Lightweight terminal-based text editor in Python  
 - `unitmaster` – Simple and useful unit conversion library that reduces google searches in every program by 90%.
+
 → _Both have international users and 100+ combined downloads.
 ---
 
