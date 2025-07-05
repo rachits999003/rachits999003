@@ -35,9 +35,39 @@ Tools = ["Git", PyInstaller", "VS Code", "PyPI"]
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachits999003&layout=compact&theme=tokyonight" height="180">
 </p>
 
+## 🚀 Highlight Projects
+
+🔹 [**Fake Review Classifier**](https://github.com/rachits999003/AI-Based-Fake-Review-Classifier)  
+Built an ML classifier to detect AI-generated reviews. Uses `RandomForestClassifier` and sentiment features. Achieved 90%+ accuracy on test data. Deployed as a Streamlit demo.  
+→ _Used by early testers to evaluate reviews across marketplaces._
+
+🔹 [**Ball Sort Solver**](https://github.com/rachits999003/Ball-Sort-Solver)  
+Built a guaranteed solver using A* + custom heuristics. Prunes state trees for faster convergence. GUI made with Tkinter.  
+→ _Used by puzzle solvers to crack hard levels without brute force._
+
+🔹 [**AI Butler**](https://github.com/rachits999003/) *(link if public)*  
+Voice-activated assistant framework with modular command execution. Acts as a productivity hub.  
+→ _200+ downloads and integrated into my local automation setup._
+
 ---
 
-### 🌐 Connect
+## 📦 Python Libraries (Maintainer)
 
-- [LinkedIn](https://www.linkedin.com/in/rachit-sharma-498108256/)
-- [Portfolio](https://rachits.netlify.app)
+- `pytedit` – Lightweight terminal-based text editor in Python  
+- `...` – [Add second one here]  
+→ _Both have international users, bug reports, and feature requests._
+
+---
+
+## 📜 Publications
+
+- **Cyclic Feedback-Controlled Model Chains for Recursive ML Refinement**  
+- **Hybrid AI + YARA Malware Detection System**
+
+---
+
+## 📡 Connect with Me
+
+- 🌐 [Portfolio](https://rachits.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rachit-sharma-498108256/)
+- 🧠 [Blog on Dev.to](https://dev.to/rachits999003)
