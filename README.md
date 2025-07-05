@@ -45,18 +45,13 @@ Built an ML classifier to detect AI-generated reviews. Uses `RandomForestClassif
 Built a guaranteed solver using A* + custom heuristics. Prunes state trees for faster convergence. GUI made with Tkinter.  
 → _Used by puzzle solvers to crack hard levels without brute force._
 
-🔹 [**AI Butler**](https://github.com/rachits999003/) *(link if public)*  
-Voice-activated assistant framework with modular command execution. Acts as a productivity hub.  
-→ _200+ downloads and integrated into my local automation setup._
-
 ---
 
 ## 📦 Python Libraries (Maintainer)
 
 - `pytedit` – Lightweight terminal-based text editor in Python  
-- `...` – [Add second one here]  
-→ _Both have international users, bug reports, and feature requests._
-
+- `unitmaster` – Simple and useful unit conversion library that reduces google searches in every program by 90%.
+→ _Both have international users and 100+ combined downloads.
 ---
 
 ## 📜 Publications
