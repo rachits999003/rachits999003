@@ -53,7 +53,7 @@ Built a guaranteed solver using A* + custom heuristics. Prunes state trees for f
 - `pytedit` – Lightweight terminal-based text editor in Python  
 - `unitmaster` – Simple and useful unit conversion library that reduces google searches in every program by 90%.
 
-→ _Both have international users and 100+ combined downloads.
+→ Both have international users and 1600+ combined downloads.
 ---
 
 ## 📜 Publications
