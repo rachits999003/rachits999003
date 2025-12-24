@@ -246,16 +246,17 @@ Published and actively maintained Python packages
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
+  <!--
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rachits999003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rachits999003&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+-->
 
 </div>
 
 <div align="center">
-  
+  <!--
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachits999003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rachits999003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rachits999003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9" alt="Contribution Graph"/> -->
 
 </div>
 
@@ -306,20 +307,20 @@ graph LR
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://rachits.netlify.app/">
+<a href="https://rachitsharma.dev/">
 <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="50px"/>
 <br><b>Portfolio</b>
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://www.linkedin.com/in/rachit-sharma-498108256/">
+<a href="https://www.linkedin.com/in/rachits999003/">
 <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="50px"/>
 <br><b>LinkedIn</b>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://dev.to/rachits999003">
-<img src="https://img.icons8.com/windows/96/000000/dev. png" width="50px"/>
+<img src="https://img.icons8.com/windows/96/000000/dev.png" width="50px"/>
 <br><b>Blog</b>
 </a>
 </td>
