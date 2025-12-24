@@ -12,7 +12,7 @@ I focus on shipping real, working code—not just tutorials.
 <p align="center">
   <a href="https://rachits.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/rachit-sharma-498108256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://dev.to/rachits999003"><img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev. to&logoColor=white" alt="Blog"/></a>
+  <a href="https://dev.to/rachits999003"><img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog"/></a>
   <a href="https://pypi.org/user/rachits999003/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"/></a>
 </p>
 
@@ -82,7 +82,7 @@ I focus on shipping real, working code—not just tutorials.
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Frameworks & Tools
-![Flask](https://img.shields.io/badge/Flask-000000? style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -261,6 +261,8 @@ Published and actively maintained Python packages
 
 ---
 
+<!--
+/*
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -280,7 +282,7 @@ Published and actively maintained Python packages
 </div>
 
 ---
-
+-->
 ## 💡 Current Focus
 
 <div align="center">
