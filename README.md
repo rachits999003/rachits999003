@@ -23,7 +23,7 @@ I focus on shipping real, working code—not just tutorials.
 ---
 
 ## 💼 What I Build
-<div aligh="center">
+<div align="center" margin>
 <table>
 <tr>
 <td width="50%">
