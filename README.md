@@ -10,7 +10,7 @@
 I focus on shipping real, working code—not just tutorials. 
 
 <p align="center">
-  <a href="https://rachits.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://rachitsharma.dev/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/rachit-sharma-498108256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://dev.to/rachits999003"><img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog"/></a>
   <a href="https://pypi.org/user/rachits999003/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"/></a>
