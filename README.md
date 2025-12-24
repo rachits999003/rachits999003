@@ -243,48 +243,7 @@ Published and actively maintained Python packages
 </details>
 
 ---
-<!--
-## 📊 GitHub Statistics
 
-<div align="center">
-  <!--
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rachits999003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rachits999003&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
--->
-
-</div>
-
-<div align="center">
-  <!--
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachits999003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rachits999003&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9" alt="Contribution Graph"/> -->
-
-</div>
-
----
-
-<!--
-/*
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=rachits999003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel. app/graph?username=rachits999003&custom_title=Rachit's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
----
---> -->
 ## 💡 Current Focus
 
 <div align="center">
