@@ -23,7 +23,7 @@ I focus on shipping real, working code—not just tutorials.
 ---
 
 ## 💼 What I Build
-
+<div aligh="center">
 <table>
 <tr>
 <td width="50%">
@@ -62,6 +62,7 @@ I focus on shipping real, working code—not just tutorials.
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -242,7 +243,7 @@ Published and actively maintained Python packages
 </details>
 
 ---
-
+<!--
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -283,7 +284,7 @@ Published and actively maintained Python packages
 </div>
 
 ---
--->
+--> -->
 ## 💡 Current Focus
 
 <div align="center">
